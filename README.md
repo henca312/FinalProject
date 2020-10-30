@@ -48,12 +48,11 @@ The following packages were used in this python project:
 
 File Descriptions
 ==========
-The following files are provided:
-* Boston Project DRAFT.ipynb (Notebook in Jupyter Lab)
-* Data.zip containing:
-* Listings.csv, including full descriptions and average review score
-* Reviews.csv, including unique id for each reviewer and detailed comments
-* Calendar.csv , including listing id and the price and availability for that day
+The following files are being provided by udacity. In this git i'am only sharing my python notebook with the results.
+* Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
+* Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
+* Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
+* Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
 
 
