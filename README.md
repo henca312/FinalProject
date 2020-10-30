@@ -29,21 +29,21 @@ To have a solid and well known project structure i’ve used the CRISPDM process
 Installations
 ==========
 The following packages were used in this python project:
-* numpy
+* numpy 
 * pandas
-* seaborn
-* os
 * matplotlib.pyplot
-* sklearn.linear_model
-* sklearn.model_selection
-* sklearn.metrics
-* sklearn.ensemble
-* sklearn.preprocessing
-* sklearn.feature_selection
-* sklearn. linear_model
-* sklearn.model_selection
-* datetime
-* matplotlib
+* seaborn 
+* time
+* dask 
+* sklearn.decomposition
+* sklearn.metrics 
+* sklearn.model_selection  
+* xgboost.sklearn   
+* xgboost  
+* sklearn.cluster  
+* sklearn.preprocessing 
+* scipy 
+* fancyimpute 
 
 
 File Descriptions
