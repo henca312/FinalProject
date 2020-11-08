@@ -53,10 +53,19 @@ A customer from Bertelsmann arvato is doing mail out campaigns. Therefore it is 
 Why? If we would adress a mailout campaign to "everyone" would mean high cost and low effectiveness because not everyone is not interested in everything.
 So there is a need to understand the potential customer base (General Population data from germany) and to understand the current customer base from the Mailout Campaign.
 
-To awnser this question we've identified several sub aspects:
+To answer this question we've identified several sub aspects:
 > * Analyze Attributes & the demographic of the existing clients 
 > * Analyze Attributes of the demographics of the new clients
-> * qFigure out, which people from the big data set are most likely new customers for the client, the mail order company selling organic products
+> * Figure out, which people from the big data set are most likely new customers for the client, the mail order company selling organic products
+
+## Data Understanding
+Arvato provided two files containing data for the general population in germany and data for the existing clienst customer base.
+To undestand the data we've focused on 4 tasks:
+> * Get an overview of the azdias data: Look at null values
+> * Get an overview of the customers data: Look at null values
+> * Results: Look at null values
+> * Get an overview of the data: Compare distinct values
+
 
 Conclusion
 ==========
