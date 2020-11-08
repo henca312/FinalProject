@@ -67,6 +67,7 @@ To undestand the data we've focused on 4 tasks:
 > * Get an overview of the data: Compare distinct values
 
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Azdias_Null_Value.png?raw=true)
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Customers_Null_Value.png?raw=true)
 
 
 
