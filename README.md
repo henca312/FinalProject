@@ -65,10 +65,15 @@ To undestand the data we've focused on 4 tasks:
 > * Get an overview of the customers data: Look at null values
 > * Results: Look at null values
 > * Get an overview of the data: Compare distinct values
-
+### Null Values at Azdias
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Azdias_Null_Value.png?raw=true)
+### Null Values at Customers
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Customers_Null_Value.png?raw=true)
+### Null Value Comparison
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Null%20Value%20Comparison.png?raw=true)
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Null%20Value%20Comparison.png?raw=true)
+### Comparison distinct values
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/CompareDistinctValues.png?raw=true)
 
 
 
