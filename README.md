@@ -45,6 +45,7 @@ To have a solid and well known project structure i’ve used the CRISPDM process
 Summary of results
 ==========
 
+
 Conclusion
 ==========
 
