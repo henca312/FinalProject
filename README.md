@@ -54,9 +54,9 @@ Why? If we would adress a mailout campaign to "everyone" would mean high cost an
 So there is a need to understand the potential customer base (General Population data from germany) and to understand the current customer base from the Mailout Campaign.
 
 To awnser this question we've identified several sub aspects:
-> Analyze Attributes & the demographic of the existing clients 
-> Analyze Attributes of the demographics of the new clients
-> Figure out, which people from the big data set are most likely new customers for the client, the mail order company selling organic products
+> * Analyze Attributes & the demographic of the existing clients 
+> * Analyze Attributes of the demographics of the new clients
+> * qFigure out, which people from the big data set are most likely new customers for the client, the mail order company selling organic products
 
 Conclusion
 ==========
