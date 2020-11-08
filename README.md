@@ -66,6 +66,8 @@ To undestand the data we've focused on 4 tasks:
 > * Results: Look at null values
 > * Get an overview of the data: Compare distinct values
 
+![alt text](https://github.com/henca312/FinalProject/edit/main//image.jpg?raw=true)
+
 
 
 
