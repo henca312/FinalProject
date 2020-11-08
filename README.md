@@ -111,6 +111,10 @@ Regarding the customer segmentation report i've used Principal Component Analysi
 The next part of the project was to develop a supervised Learning Model based on a given test data.
 We developed the model on the train database and evaluate it with test data.
 
+Based on the business context we need to understand the problem. We want to predict if a customer has responeded to a campaign or not. This can be described as a multi-class classification problem. A multinomial classification is the problem to classify instances into classes. In this case we have to classify:
+* 1: Customer has responded
+* 0: Customer has not responded
+
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Target%20Value%20Distribution.png?raw=true)
 
 
