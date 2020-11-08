@@ -4,7 +4,7 @@ Link Blog Post: https://hendrik-carius.medium.com/the-final-step-to-become-a-dat
 Link Git Hub: https://github.com/henca312/FinalProject/
 
 
-![alt text](https://img1.pnghut.com/t/5/5/6/fmtmeWzkK3/text-skill-course-lifelong-learning-nanodegree.jpg)
+![alt text](https://www.roadtovr.com/wp-content/uploads/2017/10/udacity-logo.png)
 
 
 Readme:
