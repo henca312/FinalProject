@@ -108,6 +108,12 @@ Regarding the customer segmentation report i've used Principal Component Analysi
 
 
 ### Supervised Learning Model
+The next part of the project was to develop a supervised Learning Model based on a given test data.
+We developed the model on the train database and evaluate it with test data.
+
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Target%20Value%20Distribution.png?raw=true)
+
+
 
 
 Conclusion
