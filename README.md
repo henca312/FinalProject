@@ -101,6 +101,8 @@ Regarding the customer segmentation report i've used Principal Component Analysi
 ### Elbow Method - How many clusters?
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/ELBOW.png?raw=true)
 
+### Cluster Analysis
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Analyze%20Cluster.png?raw=true)
 
 
 
