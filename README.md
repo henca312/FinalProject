@@ -1,5 +1,6 @@
-#Capstone Project Arvato Bertelsmann with Udacity
+Capstone Project Arvato Bertelsmann with Udacity
 ==========
+
 **Link Blog Post**: 
 https://hendrik-carius.medium.com/the-final-step-to-become-a-data-scientist-nanodegree-capstone-project-arvato-bertelsmann-cc7fee5f286
 
