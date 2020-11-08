@@ -143,6 +143,19 @@ Because of the fact that Gain score is the most relevant attribute to interpet t
 
 Conclusion
 ==========
+The goal of the project was to answer the following business question:
+> How can the client, the mail order company acquire new clients more efficiently?
+
+Within the first step we've done a Principal Component Analysis to reduce the number of features.
+We have identified 205 Features that explaines alsmost 99 % of the variance within the dataset.
+What does that mean? The Mailorder Company can focus on the identified 205 Features to maybe rethink their strategy for a mailout campaign.
+Because of the fact that there are 205 Features that explains 99 % of the variance the company could gathering more detailed data for these 205 features to even better identify customer segments.
+
+The elbow method has shown that we mainly have 4 customer segments. Within these 4 segments we've found out, that there is a underrepresenation of cluster 2 within the customers data base and an overrepresentation of cluster 3 in the azdias database. What does that mean? The Mailorder Company should focus on these two clusters. 
+Especially in cluster 3 there might be some potential new customers for the Mailorder Company. The company only captures a small part of this cluster in their database. In cluster 2 there is a strong overrepresentation in the customers database. This means that there are more customers that relates to this cluster compared to the azdias data. 
+
+When developing the Supervised Learning Model we achieved an ROC AUC score between 0.81 to 0.879 with the XGBoost Classifier. The ROC curve is used to evaluate the classification performance. The misclassification rate is determined for a given set of instances, belonging to those instances for which the classifier is most reliable.. The optimal roc auc score value would be 1. The customer could use the developed kind of model to identify customers that will respond to a specific mailout campaign. So it would be possible to better define the target group and reduce cost for doing campaigns. The most relative important feature is "D19_Soziales". This feature has the heighest impact to the response of a customer. This means the mailorder company can focus on analysis on this feature for the different customer clusters to find the best way to acquire new customers.
+
 
 Installations
 ==========
