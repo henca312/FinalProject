@@ -13,7 +13,7 @@ https://github.com/henca312/FinalProject/
 
 **Readme**:
 - Project Motivation
-- Suwmmary of results
+- Summary of results
 - Conclusion
 - Installations
 - File Descriptions
@@ -32,15 +32,16 @@ To have a solid and well known project structure i’ve used the CRISPDM process
 
 | Phase  | Content |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1  | Business Understandning  |
+| 2  | Data Understanding  |
+| 3 | Data Preparation |
+| 4 | Data Modeling |
+| 5 | Evaluation |
+| 6 | Deployment|
 
-* Business Understandning
-* Data Understanding
-* Data Preparation
-* Data Modeling
-* Evaluation
-* Deployment
+## Phase 1
+
+
 
 Installations
 ==========
