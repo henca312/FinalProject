@@ -131,10 +131,15 @@ Based on the business context we need to understand the problem. We want to pred
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Grid%20Search.png?raw=true)
 
 #### Feature Importance
+##### Weight
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/weight.png?raw=true)
+##### Cover
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/cover.png?raw=true)
+##### Gain
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/gain.png?raw=true)
-
+##### Summary
+From the comparison of the feature importance based on different metrics we can see that the feature D19_Soziales is number 1 feature with regard to gain score and number 2 feature with regard to cover and weight.
+Because of the fact that Gain score is the most relevant attribute to interpet the relative importance of a feature we can conclude that D19_Soziales is the most important feature to predict if a customer respond to a certain campaign.
 
 Conclusion
 ==========
