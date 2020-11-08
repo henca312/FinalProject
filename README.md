@@ -5,12 +5,12 @@ Capstone Project Arvato Bertelsmann with Udacity
 
 
 **Link Blog Post**: 
-[a link](https://hendrik-carius.medium.com/the-final-step-to-become-a-data-scientist-nanodegree-capstone-project-arvato-bertelsmann-cc7fee5f286)
+[Go to the Blog Post](https://hendrik-carius.medium.com/the-final-step-to-become-a-data-scientist-nanodegree-capstone-project-arvato-bertelsmann-cc7fee5f286)
 
 
 
 **Link Git Hub**: 
-[a link](https://github.com/henca312/FinalProject/)
+[Go to Github](https://github.com/henca312/FinalProject/)
 
 
 **Readme**:
