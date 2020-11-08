@@ -74,7 +74,23 @@ To undestand the data we've focused on 4 tasks:
 ### Comparison distinct values
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/CompareDistinctValues.png?raw=true)
 
+## Data Preparation
+After we've successfully analyzed the data there is a need to handle null values, missing values and categorical values.
+I've made the following decisions:
 
+> * Decision: Drop all columns with > 65 % null values
+> * Decision: Drop all columns from the customers database that are only available in the customers database
+> * Decision: Removing highly correlating features
+> * Deicision: Replace all nan values in numerical columns with corresponding values from the attributes list provided
+> * Decision: Replace all nan values in catagorical columns with corresponding values from the attributes list provided
+> * Decision: Create dummies for catgegorical columns
+> * Decision: Using Multivariate Imputation by Chained Equation for Imputing all missing / nan values
+> * Decision: Converting & remove Outliers based on the Z Score
+> * Decision: Standardize data with Standard Scaler
+
+Too make several parts of the decisions reusable i've created a PrepareFunction.
+
+## Data Modeling
 
 
 
