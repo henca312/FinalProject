@@ -9,13 +9,11 @@ Capstone Project Arvato Bertelsmann with Udacity
 **Link Blog Post**: 
 [Go to the Blog Post](https://hendrik-carius.medium.com/the-final-step-to-become-a-data-scientist-nanodegree-capstone-project-arvato-bertelsmann-cc7fee5f286)
 
-
-
 **Link Git Hub**: 
 [Go to Github](https://github.com/henca312/FinalProject/)
 
 
-**Readme**:
+**Readme**
 ==========
 - Project Motivation
 - Summary of results
@@ -44,9 +42,11 @@ To have a solid and well known project structure i’ve used the CRISPDM process
 | 5 | Evaluation |
 | 6 | Deployment|
 
-## Phase 1
+Summary of results
+==========
 
-
+Conclusion
+==========
 
 Installations
 ==========
