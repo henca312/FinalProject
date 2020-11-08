@@ -91,6 +91,17 @@ I've made the following decisions:
 Too make several parts of the decisions reusable i've created a PrepareFunction.
 
 ## Data Modeling
+Now that we have cleaned data and no missing values anymore we can start with the Data Modeling.
+
+### Principal Component Analysis
+Regarding the customer segmentation report i've used Principal Component Analysis to reduce the number of features.
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/PCA.png?raw=true)
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Explained%20Variance%20by%20Features.PNG?raw=true)
+
+### Elbow Method - How many clusters?
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/ELBOW.png?raw=true)
+
+
 
 
 
