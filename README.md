@@ -29,6 +29,12 @@ The project is separated into different phases:
 3 Supervised Model
 4 Kaggle Competition
 To have a solid and well known project structure i’ve used the CRISPDM process (https://datasolut.com/crisp-dm-standard/) to accomplish all of these tasks. The CRISPDM process contains the following phases:
+
+| Phase  | Content |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 * Business Understandning
 * Data Understanding
 * Data Preparation
