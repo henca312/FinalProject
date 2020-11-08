@@ -176,6 +176,12 @@ The following files are being provided by udacity. In this git i'am only sharing
 
 
 
+Acknowledgments
+==========
+Time is passing by and i'am very happy successfully finished the project. Now it is time to say thank you.
+
+> Thank's a lot to my company providing me the possibilitie to spend time on learning new things. Thank's a lot to udacity and the employees, especially the various reviewers reviewing several projects and awnsering questions. Also a big thank you to the great content and the way it's presented to udacity, that provides such great courses.
+Thank also to the my colleagues at work, for supporting me the whole time and providing me feedback for some really complicated technical questions.
 
 
 
