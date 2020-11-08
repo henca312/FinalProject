@@ -12,6 +12,7 @@ https://github.com/henca312/FinalProject/
 
 
 **Readme**:
+==========
 - Project Motivation
 - Summary of results
 - Conclusion
