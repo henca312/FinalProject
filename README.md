@@ -71,7 +71,6 @@ To undestand the data we've focused on 4 tasks:
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Customers_Null_Value.png?raw=true)
 ### Null Value Comparison
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Null%20Value%20Comparison.png?raw=true)
-![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Null%20Value%20Comparison.png?raw=true)
 ### Comparison distinct values
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/CompareDistinctValues.png?raw=true)
 
