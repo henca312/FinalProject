@@ -115,9 +115,25 @@ Based on the business context we need to understand the problem. We want to pred
 * 1: Customer has responded
 * 0: Customer has not responded
 
+#### Checking the distribution of the target variable
 ![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Target%20Value%20Distribution.png?raw=true)
 
+#### First Run Model Selection
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Model%20First%20run.png?raw=true)
 
+#### Second Run Model Selection
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Model%20Second%20run.png?raw=true)
+
+#### Model Comparison
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Model%20Comparison.png?raw=true)
+
+#### Grid Search
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/Grid%20Search.png?raw=true)
+
+#### Feature Importance
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/weight.png?raw=true)
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/cover.png?raw=true)
+![alt text](https://github.com/henca312/FinalProject/blob/main/Images/gain.png?raw=true)
 
 
 Conclusion
