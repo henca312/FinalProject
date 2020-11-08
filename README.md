@@ -44,7 +44,10 @@ To have a solid and well known project structure i’ve used the CRISPDM process
 
 Summary of results
 ==========
-
+Based on the 6 Phases of the CRISPDM process i would like to describe the results.
+## Business Understanding
+The key interest of business is the question:
+> How can the client, the mail order company acquire new clients more efficiently?
 
 Conclusion
 ==========
